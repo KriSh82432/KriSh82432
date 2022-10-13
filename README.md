@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **kg5300@srmist.edu.in**
 
+<img src="https://media0.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47ouot8yy0zdiwrwaz5imk368jw8gh8idvbo6dx2qe&rid=giphy.gif&ct=g" style="max-width: 100%; margin-right:"auto";></img>
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/krishna-v-495949219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-v-495949219" height="30" width="40" /></a>
