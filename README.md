@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krishna V</h1>
+<p align="center"><img src="https://capsule-render.vercel.app/api?&text=Hey_there&fontcolor=d6ace6&animation=fadeIn&type=waving&color=timeGradient&height=100"/></p>
+<h1 align="center">I'm Krishna V</h1>
 <h3 align="center">A passionate IoT Developer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish82432" alt="krish82432" /></a> </p>
@@ -57,6 +58,8 @@ hobbies: ["Gaming", "Cinema", "Cricket", "Music"]
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krish82432&show_icons=true&locale=en" alt="krish82432" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krish82432&" alt="krish82432" /></p>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!--
 **KriSh82432/KriSh82432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
