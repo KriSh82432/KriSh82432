@@ -59,7 +59,7 @@ hobbies: ["Gaming", "Cinema", "Cricket", "Music"]
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krish82432&" alt="krish82432" /></p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/krish82432/krish82432/blob/output/github-contribution-grid-snake.svg)
 <!--
 **KriSh82432/KriSh82432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
