@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently pursuing **ECE @SRMIST, Chennai**
 
-- 🌱 I’m currently learning **Full Stack IoT Development, Back End Development, JavaScript**
+- 🌱 I’m currently learning **Full Stack IoT Development, Back End Development, Web Development**
 
 - 👯 I’m looking to collaborate on **Open source IoT projects**
 
