@@ -43,7 +43,7 @@ fields_of_interests:
   ]
 technical_background:
   [
- 
+    "Web Developer Intern @GameNation"
   ]
   
 currently_learning: ["Back End Devlopment using Python and JS"]
