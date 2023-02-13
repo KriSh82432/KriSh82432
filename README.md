@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?&text=Hey_there&fontcolor=black&animation=fadeIn&type=waving&color=timeGradient&height=100"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?&text=Hey%20there&fontcolor=black&animation=fadeIn&type=waving&color=timeGradient&height=100"/></p>
 <h1 align="center">I'm Krishna V</h1>
 <h3 align="center">A passionate IoT Developer from India.</h3>
 
