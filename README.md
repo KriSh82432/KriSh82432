@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open source IoT projects**
 
-- 💬 Ask me about **IoT, Electronics, Embedded Systems**
+- 💬 Ask me about **IoT, Electronics, Web Development, Backend Development**
 
 - 📫 How to reach me **kg5300@srmist.edu.in**
 
