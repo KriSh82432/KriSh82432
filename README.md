@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kg5300@srmist.edu.in**
 
-<p align="center"><img src="https://drive.google.com/file/d/1PV9ihp4Q_qIjsTduHMLpgc6LPYpozbcl/view?usp=sharing" height="400"></img></p>
+<p align="center"><img src="https://github.com/KriSh82432/KriSh82432/blob/main/img.png" height="400"></img></p>
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/krishna-v-495949219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-v-495949219" height="30" width="40" /></a>
