@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kg5300@srmist.edu.in**
 
-<p align="center"><img src="https://media0.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47ouot8yy0zdiwrwaz5imk368jw8gh8idvbo6dx2qe&rid=giphy.gif&ct=g" height="400"></img></p>
+<p align="center"><img src="https://drive.google.com/file/d/1PV9ihp4Q_qIjsTduHMLpgc6LPYpozbcl/view?usp=sharing" height="400"></img></p>
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/krishna-v-495949219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-v-495949219" height="30" width="40" /></a>
@@ -59,19 +59,3 @@ hobbies: ["Gaming", "Cinema", "Cricket", "Music"]
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krish82432&show_icons=true&locale=en" alt="krish82432" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krish82432&" alt="krish82432" /></p>
-
-![Snake animation](https://github.com/KriSh82432/KriSh82432/blob/output/github-contribution-grid-snake.svg)
-<!--
-**KriSh82432/KriSh82432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
