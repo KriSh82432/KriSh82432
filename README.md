@@ -2,8 +2,6 @@
 <h1 align="center">I'm Krishna V</h1>
 <h3 align="center">A passionate IoT Developer from India.</h3>
 
-<p align="left" margin="5px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish82432" alt="krish82432" /></a> </p>
-
 - 🔭 I’m currently pursuing **ECE @SRMIST, Chennai**
 
 - 🌱 I’m currently learning **Full Stack IoT Development, Back End Development, Web Development**
